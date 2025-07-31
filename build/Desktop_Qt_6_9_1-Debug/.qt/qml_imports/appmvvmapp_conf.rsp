@@ -1,0 +1,14 @@
+-rootPath
+/home/ndmau/Qt/mvvmapp
+-cmake-output
+-output-file
+/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug/.qt/qml_imports/appmvvmapp_conf.cmake
+-importPath
+/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug/mvvmapp
+-importPath
+/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug
+-importPath
+/home/ndmau/Qt_install/6.9.1/gcc_64/qml
+-qrcFiles
+/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/qmake_mvvmapp.qrc
+/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appmvvmapp_raw_qml_0.qrc

@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"fill\".",
+                        "functionName": "fill",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type StackView for binding on stackView.",
+                        "functionName": "stackView",
+                        "line": 15
+                    }
+                ],
+                "filePath": "/home/ndmau/Qt/mvvmapp/Main.qml"
+            }
+        ],
+        "moduleId": "mvvmapp(appmvvmapp)"
+    }
+]

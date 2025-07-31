@@ -1,0 +1,1 @@
+/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug/appmvvmapp_autogen/include/../EWIEGA46WW/moc_MainViewmodel.cpp.json

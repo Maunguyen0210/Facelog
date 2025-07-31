@@ -1,0 +1,7 @@
+--resource
+/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/qmake_mvvmapp.qrc
+--resource
+/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appmvvmapp_raw_qml_0.qrc
+/qt/qml/mvvmapp/Main.qml
+/qt/qml/mvvmapp/Page1.qml
+/qt/qml/mvvmapp/Page2.qml

@@ -1,0 +1,7 @@
+module mvvmapp
+typeinfo appmvvmapp.qmltypes
+prefer :/qt/qml/mvvmapp/
+Main 1.0 Main.qml
+Page1 1.0 Page1.qml
+Page2 1.0 Page2.qml
+

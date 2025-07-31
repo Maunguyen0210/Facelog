@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/mvvmapp">
+    <file alias="qmldir">/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug/mvvmapp/qmldir</file>
+  </qresource>
+</RCC>
+

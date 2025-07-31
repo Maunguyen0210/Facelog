@@ -1,0 +1,10 @@
+-I
+/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug
+-I
+/home/ndmau/Qt_install/6.9.1/gcc_64/qml
+--resource
+/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/qmake_mvvmapp.qrc
+--resource
+/home/ndmau/Qt/mvvmapp/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appmvvmapp_raw_qml_0.qrc
+--module
+mvvmapp

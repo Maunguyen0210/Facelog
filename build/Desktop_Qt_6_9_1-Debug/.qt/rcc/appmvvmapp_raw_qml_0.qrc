@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/mvvmapp/">
+    <file alias="Main.qml">/home/ndmau/Qt/mvvmapp/Main.qml</file>
+    <file alias="Page1.qml">/home/ndmau/Qt/mvvmapp/Page1.qml</file>
+    <file alias="Page2.qml">/home/ndmau/Qt/mvvmapp/Page2.qml</file>
+  </qresource>
+</RCC>
+
