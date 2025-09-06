@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/button1.png</file>
+        <file>image/milestone.png</file>
+        <file>image/diagonal-line.png</file>
+        <file>image/curved-line.png</file>
+        <file>image/substract.png</file>
+        <file>image/product.png</file>
+        <file>image/package-box.png</file>
+        <file>image/boxes.png</file>
+        <file>image/package.png</file>
+        <file>image/left-arrow.png</file>
+        <file>image/factory.png</file>
+        <file>image/conveyor-belt.png</file>
+        <file>image/back.png</file>
+        <file>image/agv-robot.png</file>
+        <file>image/checked.png</file>
+        <file>image/next-button.png</file>
+        <file>image/agv.jpg</file>
+        <file>image/logo.png</file>
+        <file>image/agv-icon.png</file>
+        <file>image/agv-iconm.png</file>
+        <file>mainpage.qml</file>
+        <file>mainpage1.qml</file>
+        <file>designmainpage.qml</file>
+        <file>designmainpage1.qml</file>
+    </qresource>
+</RCC>
